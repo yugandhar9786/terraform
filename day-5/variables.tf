@@ -8,5 +8,5 @@ variable "environment" {
 variable "bucket_name" {
   description = "S3 bucket name"
   type        = string
-  default     = "my-terraform-bucket"
+  default     = "my-terraform-bucket-day-7-challange-123"
 }
